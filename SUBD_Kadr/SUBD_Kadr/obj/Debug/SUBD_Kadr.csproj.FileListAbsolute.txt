@@ -1,0 +1,12 @@
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe.config
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.pdb
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.AssemblyReference.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.SuggestedBindingRedirects.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Form1.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.FormADD.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Properties.Resources.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.GenerateResource.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.CoreCompileInputs.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.exe
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.pdb

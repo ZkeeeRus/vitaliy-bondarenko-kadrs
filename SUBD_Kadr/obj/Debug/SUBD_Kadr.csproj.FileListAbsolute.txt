@@ -1,0 +1,26 @@
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe.config
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe
+D:\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.pdb
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.AssemblyReference.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.SuggestedBindingRedirects.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Form1.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.FormADD.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Properties.Resources.resources
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.GenerateResource.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.CoreCompileInputs.cache
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.exe
+D:\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.pdb
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe.config
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.pdb
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.AssemblyReference.cache
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Form1.resources
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.FormADD.resources
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.Properties.Resources.resources
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.exe
+C:\Users\Pavel\OneDrive\Рабочий стол\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.pdb
+E:\ТЕПЛЯКОВ И БОНДАРЕНКО\SUBD_Kadr\SUBD_Kadr\bin\Debug\SUBD_Kadr.exe.config
+E:\ТЕПЛЯКОВ И БОНДАРЕНКО\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.exe
+E:\ТЕПЛЯКОВ И БОНДАРЕНКО\SUBD_Kadr\SUBD_Kadr\obj\Debug\SUBD_Kadr.pdb
